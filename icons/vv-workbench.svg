@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="VV 工作台">
+  <rect width="512" height="512" rx="118" fill="#73617d"/>
+  <circle cx="400" cy="112" r="56" fill="#aa8798" opacity=".72"/>
+  <path d="M96 146l84 232h59l49-137 49 137h59l84-232h-69l-47 151-49-151h-54l-49 151-47-151z" fill="#fffdfd"/>
+</svg>
+
